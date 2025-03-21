@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "whipslogs",
+  "version": "${version}",
+  "name": "WhipsLogs",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/whipslogs/icon.png",
+  "environment": "server",
+  "entrypoints": {
+    "main": [
+      "byfr0n.whipslogs.Whipslogs"
+    ]
+  },
+  "mixins": [
+    "whipslogs.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
