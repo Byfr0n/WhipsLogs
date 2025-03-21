@@ -7,7 +7,7 @@
   "authors": ["byfr0n"],
   "contact": {},
   "license": "MIT",
-  "icon": "assets/whispslogs/icon.png",
+  "icon": "assets/whipslogs/icon.png",
   "environment": "server",
   "entrypoints": {
     "main": [
