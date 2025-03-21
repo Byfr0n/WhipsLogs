@@ -2,12 +2,12 @@
   "schemaVersion": 1,
   "id": "whipslogs",
   "version": "${version}",
-  "name": "WhipsLogs",
+  "name": "Whips Logs",
   "description": "",
-  "authors": [],
+  "authors": ["byfr0n"],
   "contact": {},
   "license": "MIT",
-  "icon": "assets/whipslogs/icon.png",
+  "icon": "assets/whispslogs/icon.png",
   "environment": "server",
   "entrypoints": {
     "main": [

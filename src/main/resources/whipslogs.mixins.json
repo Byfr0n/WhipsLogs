@@ -4,8 +4,7 @@
   "package": "byfr0n.whipslogs.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-  ],
-  "client": [
+    "MessageCommandMixin"
   ],
   "injectors": {
     "defaultRequire": 1
